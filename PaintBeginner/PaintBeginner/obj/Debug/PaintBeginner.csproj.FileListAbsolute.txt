@@ -1,0 +1,40 @@
+C:\Users\Lenovo\source\repos\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.Form1.resources
+C:\Users\Lenovo\source\repos\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PaintBeginner\PaintBeginner\bin\Debug\PaintBeginner.exe.config
+C:\Users\Lenovo\source\repos\PaintBeginner\PaintBeginner\bin\Debug\PaintBeginner.exe
+C:\Users\Lenovo\source\repos\PaintBeginner\PaintBeginner\bin\Debug\PaintBeginner.pdb
+C:\Users\Lenovo\source\repos\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.exe
+C:\Users\Lenovo\source\repos\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.pdb
+D:\pp2\PaintBeginner\PaintBeginner\bin\Debug\PaintBeginner.exe.config
+D:\pp2\PaintBeginner\PaintBeginner\bin\Debug\PaintBeginner.exe
+D:\pp2\PaintBeginner\PaintBeginner\bin\Debug\PaintBeginner.pdb
+D:\pp2\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.csprojAssemblyReference.cache
+D:\pp2\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.Form1.resources
+D:\pp2\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.Properties.Resources.resources
+D:\pp2\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.csproj.GenerateResource.cache
+D:\pp2\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.csproj.CoreCompileInputs.cache
+D:\pp2\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.exe
+D:\pp2\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.pdb
+G:\Новая папка\PaintBeginner\PaintBeginner\bin\Debug\PaintBeginner.exe.config
+G:\Новая папка\PaintBeginner\PaintBeginner\bin\Debug\PaintBeginner.exe
+G:\Новая папка\PaintBeginner\PaintBeginner\bin\Debug\PaintBeginner.pdb
+G:\Новая папка\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.csprojAssemblyReference.cache
+G:\Новая папка\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.Form1.resources
+G:\Новая папка\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.Properties.Resources.resources
+G:\Новая папка\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.csproj.GenerateResource.cache
+G:\Новая папка\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.csproj.CoreCompileInputs.cache
+G:\Новая папка\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.exe
+G:\Новая папка\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.pdb
+\\Mac\Home\Desktop\PaintBeginner\PaintBeginner\bin\Debug\PaintBeginner.exe.config
+\\Mac\Home\Desktop\PaintBeginner\PaintBeginner\bin\Debug\PaintBeginner.exe
+\\Mac\Home\Desktop\PaintBeginner\PaintBeginner\bin\Debug\PaintBeginner.pdb
+\\Mac\Home\Desktop\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.Form1.resources
+\\Mac\Home\Desktop\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.Properties.Resources.resources
+\\Mac\Home\Desktop\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.exe
+\\Mac\Home\Desktop\PaintBeginner\PaintBeginner\obj\Debug\PaintBeginner.pdb
