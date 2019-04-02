@@ -1,0 +1,14 @@
+C:\Users\raybit\source\repos\Lec8G2\Lec8G2\bin\Debug\Lec8G2.exe.config
+C:\Users\raybit\source\repos\Lec8G2\Lec8G2\bin\Debug\Lec8G2.exe
+C:\Users\raybit\source\repos\Lec8G2\Lec8G2\bin\Debug\Lec8G2.pdb
+C:\Users\raybit\source\repos\Lec8G2\Lec8G2\obj\Debug\Lec8G2.csprojAssemblyReference.cache
+C:\Users\raybit\source\repos\Lec8G2\Lec8G2\obj\Debug\Lec8G2.csproj.CoreCompileInputs.cache
+C:\Users\raybit\source\repos\Lec8G2\Lec8G2\obj\Debug\Lec8G2.exe
+C:\Users\raybit\source\repos\Lec8G2\Lec8G2\obj\Debug\Lec8G2.pdb
+F:\змейка\Lec8G2\bin\Debug\Lec8G2.exe.config
+F:\змейка\Lec8G2\bin\Debug\Lec8G2.exe
+F:\змейка\Lec8G2\bin\Debug\Lec8G2.pdb
+F:\змейка\Lec8G2\obj\Debug\Lec8G2.csprojAssemblyReference.cache
+F:\змейка\Lec8G2\obj\Debug\Lec8G2.csproj.CoreCompileInputs.cache
+F:\змейка\Lec8G2\obj\Debug\Lec8G2.exe
+F:\змейка\Lec8G2\obj\Debug\Lec8G2.pdb
